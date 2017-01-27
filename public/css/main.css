@@ -5,41 +5,48 @@
 body {
   margin-right: 15px;
   margin-left: 15px;
+  margin-top: 60px;
 }
 
 .box-sm {
   height: 100px;
-  width: 200px;
+  width: 300px;
 }
 
 .box-md {
-  height: 200px;
-  width: 400px;
+  height: 250px;
+  width: 600px;
+
 }
 
 .box-lg{
-  height: 300px;
-  width: 90%;
+  height: 350px;
+  width: 900px;
 }
 
 .border{
-  border: 5px solid black;
+  border: 7px solid black;
+  border-radius: 5px;
 }
 
 #yellow {
   background-color: yellow;
-  margin-left: 5%;
+  margin-left: 150px;
+  padding-top: 70px;
+  padding-bottom: 10px;
 }
 
 #red {
   background-color: red;
   margin: auto;
-  margin-top: 30px;
-  padding-top: 3%;
+  padding-top: 40px;
+
 }
 
 #blue{
-  background-color: blue;
+  background-color: cyan;
   margin: auto;
+  height: 170px;
+  width: 450px;
 
 }
